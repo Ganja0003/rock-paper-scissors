@@ -46,12 +46,3 @@ const game = () => {
 
 }
 
-
-
-
-
-
-/*
-    const playerSelection = prompt('enter either: rock,paper,scissors').toLowerCase();
-    const computerSelection = getComputerChoice();
-    console.log(playRound(playerSelection,computerSelection))*/
